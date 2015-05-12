@@ -1,0 +1,23 @@
+# build dirs
+bin
+build
+.gradle
+out
+classes
+*.swp
+
+# IDE ignores
+# eclipse
+.settings
+.project
+.classpath
+
+# Intellij
+.idea
+*.iml
+*.ipr
+*.iws
+
+# emacs
+*~
+
